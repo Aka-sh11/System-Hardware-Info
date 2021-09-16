@@ -170,7 +170,7 @@ def GPUInfo():
 
 
 def Followme():
-    webbrowser.open('https://www.instagram.com/akash.sh_/')
+    webbrowser.open('https://www.instagram.com/akasharma._/')
 
 
 Button(root, text='System Info', bg='#f2bc94', fg='#00154f', font='Verdana 10 bold', width=10,
