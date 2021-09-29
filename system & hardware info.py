@@ -12,7 +12,7 @@ root.resizable(False, False)
 root.config(bg='#00154f')
 
 Label(root, text='System and Hardware Information', font='Verdana 20 bold', fg='#f2bc94', bg="#00154f").pack()
-Label(root, text='Akash', font='Verdana 13 bold', fg='#f4af1b', bg="#00154f").pack()
+Label(root, text='Developed by Akash', font='Verdana 13 bold', fg='#f4af1b', bg="#00154f").pack()
 TextBox = Text(root, height=15, width=57, font='Verdana 10 bold')
 TextBox.place(x = 140, y= 150)
 
